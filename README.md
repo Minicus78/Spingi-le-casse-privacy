@@ -15,13 +15,9 @@ Il gioco è rivolto a ragazzi e adulti **dai 14 anni in su**. Non è pensato per
 ## 3. Quali dati usiamo e perché
 
 | Dati | Perché | Dove finiscono |
-
 |---|---|---|
-
 | **Progressi, stelle, punti, impostazioni, aiuti usati** | Ricordare dove sei arrivato e le tue preferenze | Solo sul tuo telefono. Non vengono inviati a nessuno. |
-
 | **Classifica online:** soprannome che scegli, numero di livelli completati, numero di stelle, data dell'ultimo aggiornamento e un codice giocatore casuale creato dall'app | Mostrare la classifica a tutti i giocatori. Il codice casuale serve solo a riconoscere la tua riga quando i tuoi progressi si aggiornano; non è collegato al tuo nome, al tuo account Google o al tuo telefono. I dati vengono inviati solo dopo che hai scelto un soprannome e premuto «Entra in classifica»; da quel momento si aggiornano da soli quando finisci un livello. | Un foglio Google (Google Apps Script), gestito dallo sviluppatore. Soprannome, livelli, stelle e posizione sono **visibili a tutti i giocatori**. |
-
 | **Dati per la pubblicità:** identificativo pubblicitario del dispositivo, indirizzo IP, modello del telefono e versione di Android, lingua, informazioni sugli annunci visti e toccati | Mostrare il video con premio quando chiedi un aiuto («💡 Aiuto»), misurare gli annunci e prevenire le frodi | Google AdMob (Google Ireland Ltd.) e i suoi partner pubblicitari |
 
 **Consiglio:** nella classifica usa un soprannome e **non il tuo nome e cognome reale**, perché tutti i giocatori possono vederlo. Il soprannome si può cambiare in qualsiasi momento da _Impostazioni → Nome in classifica_.
